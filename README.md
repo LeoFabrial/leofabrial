@@ -10,9 +10,9 @@ I do code... WIP~
 
 ### Notable repositories I follow
 
-[![Rustlings](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=rustlings&theme=dracula)](https://github.com/leofabrial/rustlings)
+[![Rustlings](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=rustlings&theme=dracula)](https://github.com/rust-lang/rustlings)
 
-[![NOALBS](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=noalbs&theme=dracula)](https://github.com/leofabrial/noalbs)
+[![NOALBS](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=noalbs&theme=dracula)](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching)
 
 
 ---

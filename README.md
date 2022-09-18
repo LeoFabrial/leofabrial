@@ -1,6 +1,6 @@
 ## Hello there :smile:
 
-I do photography when I'm away from keyboard. I sometimes stream myself learning code.
+I do photography when I'm away from keyboard. I also stream myself learning code.
 
 ### Languages I practice
 🦀 Rust\

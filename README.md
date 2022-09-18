@@ -2,7 +2,7 @@
 
 I do code... WIP~
 
-### Open Source Projects and Public Code
+### Public Code
 none yet :sweat_smile: coming soon
 
 ### Github Stats

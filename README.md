@@ -13,7 +13,8 @@ I do photography when I'm away from keyboard. I also stream myself learning code
 
 ### Public Code
 
-[![Live Code](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=bloc_study&theme=dracula)](https://github.com/leofabrial/bloc_study)
+[![Live Code](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=bloc_study&theme=dracula)](https://github.com/leofabrial/bloc_study)\
+[![Live Code](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=ftest_study&theme=dracula)](https://github.com/leofabrial/ftest_study)
 
 ---
 

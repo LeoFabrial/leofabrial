@@ -8,6 +8,13 @@ I do code... WIP~
 
 [![Live Code](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=live_code&theme=dracula)](https://github.com/leofabrial/live_code)
 
+### Notable repositories I follow
+
+[![Rustlings](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=rustlings&theme=dracula)](https://github.com/leofabrial/rustlings)
+
+[![NOALBS](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=noalbs&theme=dracula)](https://github.com/leofabrial/noalbs)
+
+
 ---
 
 ### Github Stats

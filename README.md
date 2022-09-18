@@ -1,19 +1,18 @@
 ## Hello there :smile:
 
-I do code... WIP~
+
+
+### Languages I practice
+🦀 Rust\
+🐟 Flutter/Dart\
+👽 Shell Script\
+🐙 Oracle PLSQL
 
 ---
 
 ### Public Code
 
 [![Live Code](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=live_code&theme=dracula)](https://github.com/leofabrial/live_code)
-
-### Notable repositories I follow
-
-[![Rustlings](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=rustlings&theme=dracula)](https://github.com/rust-lang/rustlings)
-
-[![NOALBS](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=noalbs&theme=dracula)](https://github.com/715209/nginx-obs-automatic-low-bitrate-switching)
-
 
 ---
 

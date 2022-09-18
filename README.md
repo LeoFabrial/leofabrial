@@ -1,4 +1,6 @@
-I do code. :smile:
+### Hello there :smile:
+
+I do code... WIP~
 
 ### Open Source Projects and Public Code
 none yet :sweat_smile: coming soon

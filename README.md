@@ -7,6 +7,7 @@ I do photography when I'm away from keyboard. I also stream myself learning code
 🐟 Flutter/Dart\
 👽 Shell Script\
 🐙 Oracle PLSQL
+\+ So much more I want to learn
 
 ---
 

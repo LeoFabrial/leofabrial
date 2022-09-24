@@ -14,6 +14,7 @@ I do photography when I'm away from keyboard. I also stream myself learning code
 ### Public Code
 
 [![Rust Study](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=rust_study&theme=dracula)](https://github.com/leofabrial/rust_study)\
+[![Fullstack Rust Study](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=fullstack_rust_study&theme=dracula)](https://github.com/leofabrial/fullstack_rust_study)\
 [![Flutter Bloc Study](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=bloc_study&theme=dracula)](https://github.com/leofabrial/bloc_study)\
 [![Flutter Test Study](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=ftest_study&theme=dracula)](https://github.com/leofabrial/ftest_study)
 

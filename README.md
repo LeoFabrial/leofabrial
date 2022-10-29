@@ -4,8 +4,9 @@ I do photography when I'm away from keyboard. I also stream myself learning code
 
 ### Languages I practice
 🦀 Rust\
-🐟 Flutter/Dart\
+🎟️ Typescript/JS with Next.js\
 👽 Shell Script\
+🐘 Postgres PLPGSQL\
 🐙 Oracle PLSQL\
 \+ So much more I want to learn
 

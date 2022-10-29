@@ -1,13 +1,13 @@
 ## Hello there :smile:
 
+I do fullstack web and mobile app development using React Native. Currently exploring/learning Rust for use in backend.
+
 I do photography when I'm away from keyboard. I also stream myself learning code.
 
 ### Languages I practice
 🦀 Rust\
 🎟️ Typescript/JS with Next.js\
 👽 Shell Script\
-🐘 Postgres PLPGSQL\
-🐙 Oracle PLSQL\
 \+ So much more I want to learn
 
 <!-- [![Rust Study](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=rust_study&theme=dracula)](https://github.com/leofabrial/rust_study)\ -->

@@ -13,15 +13,15 @@ I do fullstack web and mobile app development using NextJs and React Native. Cur
 - Oracle Database Support/Maintenance
 - Job Automation with Shellscripting
 
-## Other than code
-I do photography when I'm away from keyboard. I also stream myself learning code.
-
 ### Languages I practice
 🦀 Rust\
 🎟️ Typescript/JS with Next.js\
 👽 Shell Script\
 📣 SQL\
 \+ So much more I want to learn
+
+## Other than code
+I do photography when I'm away from keyboard. I also stream myself learning code.
 
 <!-- [![Rust Study](https://github-readme-stats.vercel.app/api/pin/?username=leofabrial&repo=rust_study&theme=dracula)](https://github.com/leofabrial/rust_study)\ -->
 ---

@@ -1,6 +1,6 @@
 ## Hello there :smile:
 
-I do fullstack web and mobile app development using React Native. Currently exploring/learning Rust for use in backend.
+I do fullstack web and mobile app development using NextJs and React Native. Currently exploring/learning Rust.
 
 I do photography when I'm away from keyboard. I also stream myself learning code.
 

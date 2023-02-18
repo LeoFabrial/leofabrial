@@ -3,7 +3,7 @@
 I do fullstack web and mobile app development using NextJs and React Native. Currently exploring/learning Rust.
 
 **I have experience with the following:**
-- Web app deployment with AWS EC2
+- Web app deployment with AWS EC2 and NginX
 - Self maintained Postgres database launched with AWS EC2
 - NextJS Full Stack Web App
   - Complete with User Login and Authentication

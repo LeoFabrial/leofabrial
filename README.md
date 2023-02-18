@@ -2,6 +2,18 @@
 
 I do fullstack web and mobile app development using NextJs and React Native. Currently exploring/learning Rust.
 
+**I have experience with the following:**
+- Web app deployment with AWS EC2
+- Self maintained Postgres database launched with AWS EC2
+- NextJS Full Stack Web App
+  - Complete with User Login and Authentication
+  - tRPC
+  - TailwindCSS
+  - ORM using Prisma for PostgreSQL
+- Oracle Database Support/Maintenance
+- Job Automation with Shellscripting
+
+## Other than code
 I do photography when I'm away from keyboard. I also stream myself learning code.
 
 ### Languages I practice
